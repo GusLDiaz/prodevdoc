@@ -17,7 +17,7 @@ body {
 }
 
 #circle {
-	border-image-slice: fill;
+
 	align-self: center;
 	size: 60px;
 }
