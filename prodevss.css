@@ -14,5 +14,8 @@ font-size: large;
 }
 body {
 	-webkit-background-image: url("background image.JPG");
-	-moz-background-image: initial background image;
+	-moz-background-image: initial;
+}
+textarea {
+	box-sizing: content-box;
 }
