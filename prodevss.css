@@ -10,7 +10,7 @@ h1 {
 
 p {
 font-size: 16px;
-	border: 2px solid firebrick;
+	border: 4px dot-dot-dash firebrick;
 	background-color: antiquewhite;
 }
 body {
