@@ -1,6 +1,6 @@
 h2 {
 	color: #332222;
-	font-family: "Bauhaus 93", sans-serif;
+	background-color: antiquewhite;
 }
 
 h1 {
@@ -11,9 +11,10 @@ h1 {
 p {
 font-size: 14px;
 	border: 2px solid firebrick;
+	background-color: antiquewhite;
 }
 body {
-	background-color: beige;
+	background-color: black;
 }
 
 #circle {
