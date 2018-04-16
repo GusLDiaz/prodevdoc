@@ -9,8 +9,8 @@ h1 {
 }
 
 p {
-'color: royalblue;
-font-size: large;
+font-size: 14px;
+	border: 2px solid firebrick;
 }
 body {
 	background-color: beige;
